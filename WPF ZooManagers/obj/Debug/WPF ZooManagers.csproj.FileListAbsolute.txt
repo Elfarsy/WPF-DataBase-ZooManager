@@ -1,0 +1,19 @@
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\bin\Debug\WPF ZooManagers.exe.config
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\bin\Debug\WPF ZooManagers.exe
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\bin\Debug\WPF ZooManagers.pdb
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.csproj.AssemblyReference.cache
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.csproj.SuggestedBindingRedirects.cache
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\MainWindow.g.cs
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\App.g.cs
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers_MarkupCompile.cache
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers_MarkupCompile.lref
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\MainWindow.baml
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.g.resources
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF_ZooManagers.Properties.Resources.resources
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.csproj.GenerateResource.cache
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.csproj.CoreCompileInputs.cache
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.exe
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.pdb
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\bin\Debug\System.Data.SqlClient.dll
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\bin\Debug\System.Data.SqlClient.xml
+D:\Study\C#\Projects\WPF ZooManagers\WPF ZooManagers\obj\Debug\WPF ZooManagers.csproj.CopyComplete
